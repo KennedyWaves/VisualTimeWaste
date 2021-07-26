@@ -1,0 +1,15 @@
+﻿<Window x:Class="VisualTimeWaste.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VisualTimeWaste"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280" Background="Black" MouseMove="Window_MouseMove" MouseLeftButtonDown="Window_MouseLeftButtonDown" MouseLeftButtonUp="Window_MouseLeftButtonUp">
+    <Grid x:Name="grd_viewer">
+        <Rectangle x:Name="ret_vert" Fill="Cyan" HorizontalAlignment="Left" Margin="309,0,0,0" Width="1" Opacity="0.01"/>
+        <Rectangle x:Name="ret_hori" Fill="Cyan" Height="1" Margin="0,434,0,0" VerticalAlignment="Top" Opacity="0.01"/>
+        <Canvas x:Name="canvas" HorizontalAlignment="Left" Height="689" VerticalAlignment="Top" Width="1272"/>
+
+    </Grid>
+</Window>

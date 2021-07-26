@@ -1,0 +1,14 @@
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\bin\Debug\VisualTimeWaste.exe.config
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\bin\Debug\VisualTimeWaste.exe
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\bin\Debug\VisualTimeWaste.pdb
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste.csprojResolveAssemblyReference.cache
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\MainWindow.g.cs
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\App.g.cs
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste_MarkupCompile.cache
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste_MarkupCompile.lref
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\MainWindow.baml
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste.g.resources
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste.Properties.Resources.resources
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste.csproj.GenerateResource.Cache
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste.exe
+c:\users\waves\documents\visual studio 2017\Projects\VisualTimeWaste\VisualTimeWaste\obj\Debug\VisualTimeWaste.pdb
